@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/JohnnyNassif/tennis_table_frontend" title="Tennis Table Scoring App">
+    <a href="https://github.com/JohnnyNassif/ping_pong_frontend" title="Tennis Table Scoring App">
         <img src="https://dev-tennistable-app-players.s3.us-east-2.amazonaws.com/ping-pong-app-logo.jpg" width="250px" alt="Tennis Table Scoring App">
     </a>
 </p>
@@ -19,8 +19,8 @@ This React based UI application is providing a tool to manage Tennis Table (ping
 
 ## Prerequisites
 
-- A terraform script should be run to prepare the AWS infrastructure. You can find it here: [Tennis Table Infrastructure](https://github.com/JohnnyNassif/tennis_table_infra)
-- A Serverless project that runs a GraphQl (through AppSync) should be deployed to an AWS account. You can find it here: [Tennis Table Backend](https://github.com/johnnyNassif/tennis_table_backend)
+- A terraform script should be run to prepare the AWS infrastructure. You can find it here: [Tennis Table Infrastructure](https://github.com/JohnnyNassif/ping_pong_infra)
+- A Serverless project that runs a GraphQl (through AppSync) should be deployed to an AWS account. You can find it here: [Tennis Table Backend](https://github.com/johnnyNassif/ping_pong_backend)
 
 ## Deployment
 
